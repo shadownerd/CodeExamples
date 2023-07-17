@@ -1,0 +1,1 @@
+This is a code base for generating a grid base system where you can expand out from a given grid cordinate. When we expand to a given grid cordinate the neighboring grid cordinates become available for expantion. Once we expand, the expanded cell will be generated with random items with weight (trees, rocks...). 

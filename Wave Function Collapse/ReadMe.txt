@@ -1,0 +1,2 @@
+This is a code base for using wave function collapse algoritham to generate random grids for levels in one of my experimental projects. You can find a video demonstration of the project here. 
+https://www.linkedin.com/posts/sahanrandula_unity3d-vr-activity-7055539843472244737-m66P?utm_source=share&utm_medium=member_desktop
